@@ -1,0 +1,34 @@
+#centralwidget{
+  background-color: #1E1F26;
+}
+
+#centralwidget QFrame{
+	border:0;
+}
+
+#sidebar, #stackedWidget
+{
+  background-color: #283655;
+}
+
+#mainBar, #menu, #sidebarTitle{
+  background-color: #4D648D;
+}
+
+#menu QPushButton {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #4D648D;
+} 
+
+#graphOptions QPushButton {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #1E1F26;
+}
+
+#dataOptions QPushButton {
+  background-color: #4D648D;
+  padding: 5px;
+  border-radius: 5px;
+}

@@ -1,0 +1,8 @@
+PyQt5
+PyQtWebEngine
+pyserial
+pyqtgraph
+numpy
+folium
+ambiance
+pvlib
