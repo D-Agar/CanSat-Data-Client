@@ -10,7 +10,7 @@ import time
 # class for controlling data coming through the port
 class port_Control:
     def __init__(self):
-        # you know what these are. if you don't, don't be a David and actually google the library rather than sitting not doing anything
+        # collect all ports
         self.ports = sorted(serial.tools.list_ports.comports())
         self.portName = ""
         self.ser = serial.Serial()
