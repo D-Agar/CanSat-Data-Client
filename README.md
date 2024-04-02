@@ -6,7 +6,7 @@
 * [Setup](#Setup)
 
 ## Overview
-This is our data client for the CanSat competition
+This is the data client I created and was used for the CanSat competition.
 
 ## Setup
 It's reccommended you use a virtual environment to store your python settings, however it's not required.
